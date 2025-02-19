@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Alfred Lotsu! 🚀
+🔹 Backend Developer | Go | SvelteKit | Microservices  
+🔹 Passionate about scalable APIs, gRPC, and cloud computing  
+🔹 Creator of [ExoBook](#) & [MonkReflections](#) (Proprietary projects)  
+🔹 Open to remote opportunities! Let's connect.  
 
-<!--
-**aslotsu/aslotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tech Stack  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![NATS](https://img.shields.io/badge/NATS-48A3DA?style=for-the-badge&logo=nats&logoColor=white)  
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
