@@ -1,7 +1,7 @@
 ## Hi, I'm Alfred Lotsu! 🚀
 🔹 Backend Developer | Go | SvelteKit | Microservices  
 🔹 Passionate about scalable APIs, gRPC, and cloud computing  
-🔹 Creator of [ExoBook](https://exobook.ca) & [MonkReflections](https://monkreflections.com) (Proprietary projects)  
+🔹 Creator of [ExoBook](https://exobook.ca) & [MonkReflections](https://monkreflections.com) (will provide access for proof upon request) 
 🔹 Open to remote opportunities! Let's connect.  
 
 ### 🚀 Tech Stack  
